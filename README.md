@@ -15,7 +15,7 @@ Dịch đoạn mã morse này ra ta được : `}0M_3R{BULCPSI`. Chuỗi này
 Flag: `ISPCLUB{R3_M0}`
 </br>
 </br>
-# Crypto 150: Chick Chick wants breakfast
+# Crypto 150: Chick Chick wants breakfast!
 #### Challenge
 Sáng nay Chick Chick bị thủ lĩnh Ki3nM1ddL3 phạt vì lỡ để hắc cờ xâm nhập máy tính. Nó quyết định sẽ nói bí mật của thủ lĩnh cho người nào mang cho nó đồ ăn sáng. Nhớ nhé, nó chỉ ăn thịt xông khói thôi!!!. <br />
 Mau giúp Chick Chick đi!!!!! (｡•́︿•̀｡) <br />
