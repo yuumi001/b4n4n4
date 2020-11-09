@@ -2,7 +2,7 @@
  | Title | Category | Points | Flag
  | ------ | ------ | ------ | ------ |
  | [ReMo](#crypto-100-remo) | Crypto | 100| `ispclub{r3_m0}` |
- | [Chick Chick wants breakfast](#crypto-150-chick-chick-wants-breakfast!) | Crypto | 150 | `ISPCLUB{YUMMYYUMMY}` |
+ | [Chick Chick wants breakfast!](#crypto-150-chick-chick-wants-breakfast) | Crypto | 150 | `ISPCLUB{YUMMYYUMMY}` |
  
  # Crypto 100: ReMo
 #### Challenge
